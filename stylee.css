@@ -1,5 +1,5 @@
 body{
-    background-image:url(background\ image.jpg) ;
+    background_image:url(background\ image.jpg) ;
     background-size: cover;
     justify-content: center;
     height: 250vh;
@@ -23,7 +23,7 @@ body{
 p{
     font-size: 30px;
 }
-.box1{
+.box1image{
     background-color: rgb(183, 225, 225);
     position: relative;
     height: 350px;
